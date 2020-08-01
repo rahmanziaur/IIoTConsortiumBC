@@ -1,27 +1,7 @@
-<p align="center">
-<img src="https://github.com/Volmarg/personal-management-system/blob/beta1.0/public/assets/images/logo/smaller.png?raw=true" width="150px;" />
-</p>
-<p align="center">
-<img src="https://github.com/Volmarg/personal-management-system/blob/main/github/bar.jpg?raw=true" />
-</p>
+# msp
 
-<h1 align="center"> Industry 4.0 IIoT Data Protection with Blockchain</h1>
-<p align="center"><i>How to ensure data authentication using consoritum Blockchain<br> (if current modules allow to do that).</i></p>
+成员服务提供者（Member Service Provider），提供一组认证相关的密码学机制和协议，用来负责对网络提供证书分发、校验，身份认证管理等。
 
-<h3>Description</h3>
-<hr>
-<p align="justify">
-	
-</p>
+通常情况下，一个组织可以作为一个 MSP，负责对旗下所有成员的管理。
 
-<h3>Reasoning/Purpose</h3>
-<hr>
-
-<h2>Special thanks to</h2>
-<ul>
-	<li><a href="https://github.com/mogilvie">Mark Ogilvie</a> - for fixing EncryptBundle bugs for Symfony 4</li>
-	<li><a href="https://github.com/furcan">Furcan</a> - for adding my idea of contenteditable support for Icon Picker</li>
-	<li><a href="https://github.com/petervanderwalt">Petervanderwalt</a> - for adding fontawesome <b>js</b> version support for <a href="https://github.com/furcan/IconPicker">IconPicker</a></li>	
-	<li><a href="https://github.com/Volmarg/">Volmarg</a> - for codes an</li>
-</ul>
-<hr>
+该包下面的 `sampleconfig` 目录中提供了样例配置文件，主要包括各个证书。
