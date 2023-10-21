@@ -102,7 +102,7 @@
     "selectize": "^0.12.6",
     "shufflejs": "^5.2.3",
     "skycons": "^1.0.0",
-    "tinymce": "^5.0.5",
+    "tinymce": "^5.10.8",
     "trumbowyg": "^2.16.2",
     "twig": "^1.13.2"
   }
