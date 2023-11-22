@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
-FROM python:3.7
+FROM python:3.10.13
 MAINTAINER fabric-sdk-py "https://wiki.hyperledger.org/projects/fabric-sdk-py.md"
 
 COPY . /fabric-sdk-py
