@@ -9,3 +9,4 @@ pytest-cov >= 2.0.0
 grpcio-tools
 autopep8
 
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
