@@ -1,5 +1,5 @@
 aiogrpc >= 1.6
-cryptography >= 1.9
+cryptography>=46.0.5
 grpcio >= 1.0.1
 hkdf >= 0.0.3
 lark-parser == 0.7.1
